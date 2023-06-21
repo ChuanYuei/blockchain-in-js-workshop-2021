@@ -41,42 +41,19 @@
 
 
 
-## 第一课代码
-
-
-### 代码 commint 地址
-
-https://github.com/CUITBlockchain/blockchain-in-js-workshop-2021/commit/25f3a0d83a9fff2b4514c5503f470df939d0c2af
-
-
-### 代码截图
-
-> 将截图上传至网盘，放入链接即可
-
-![](链接)
->>>>>>> 4583569f23a7ee3111dd2f93430986224351ac5f
-
-
-### 主观与讨论题内容
-
-
----
-
-
-
 ## 第二课代码
 
 
 ### 代码 commint 地址
 
-https://github.com/CUITBlockchain/blockchain-in-js-workshop-2021/commit/25f3a0d83a9fff2b4514c5503f470df939d0c2af
+[https://github.com/CUITBlockchain/blockchain-in-js-workshop-2021/commit/25f3a0d83a9fff2b4514c5503f470df939d0c2af](https://github.com/Kiritokuto/blockchain-in-js-workshop-2021.git)
 
 
 ### 代码截图
 
 > 将截图上传至网盘，放入链接即可
 
-
+![](https://camo.githubusercontent.com/1e12a10694004848d0606f2e9ae151aaec02c425d676468033f90f588f4deefb/68747470733a2f2f73332e626d702e6f76682f696d67732f323032332f30352f31372f666361633031383564303838313334382e706e67)
 
 
 ### 主观与讨论题内容
@@ -91,14 +68,14 @@ https://github.com/CUITBlockchain/blockchain-in-js-workshop-2021/commit/25f3a0d8
 
 ### 代码 commint 地址
 
-https://github.com/CUITBlockchain/blockchain-in-js-workshop-2021/commit/25f3a0d83a9fff2b4514c5503f470df939d0c2af
+提交地址https://github.com/Kiritokuto/blockchain-in-js-workshop-2021/commits/lesson1
 
 
 ### 代码截图
 
 > 将截图上传至网盘，放入链接即可
 
-![](链接)
+![](https://camo.githubusercontent.com/22ba93c425dfa4e658fc855dc68f78eee80b4d303e08990b0ffe60272e94d8d1/68747470733a2f2f73332e626d702e6f76682f696d67732f323032332f30352f32362f383637373332363935363165643535382e706e67)
 
 
 ### 主观与讨论题内容
@@ -122,7 +99,8 @@ https://github.com/CUITBlockchain/blockchain-in-js-workshop-2021/commit/25f3a0d8
 
 > 将截图上传至网盘，放入链接即可
 
-![](链接)
+![](https://camo.githubusercontent.com/59fd4806d8be4cc31049b332a626e52ed71383cdcb4e46a9b7a965cf8c6d4bfe/68747470733a2f2f73332e626d702e6f76682f696d67732f323032332f30362f30322f663932383030346338393461363836392e706e67)
+![](https://camo.githubusercontent.com/7b71e66909abc13e6b5a4a57e7e2017a9524cb0e62de2f788c53419150f9c1ba/68747470733a2f2f73332e626d702e6f76682f696d67732f323032332f30362f30322f623536343863386437393433316431312e706e67)
 
 
 ### 主观与讨论题内容
@@ -154,6 +132,8 @@ https://github.com/CUITBlockchain/blockchain-in-js-workshop-2021/commit/25f3a0d8
 
 
 ---
+
+
 
 
 
