@@ -28,7 +28,7 @@ class UTXOPool {
 
   // 处理交易函数
   handleTransaction(_tx) {
-    if (!this.isValidTransaction(_tx)){
+    if (!this.isValidTransaction(_tx.from,_tx.value)){
       return
     }
     this.utxos[_tx.from].amount -= _tx.value
@@ -43,11 +43,10 @@ class UTXOPool {
    * 验证余额
    * 返回 bool 
    */
-  isValidTransaction(tx) {
-    return this.utxos[tx.from].amount >= tx.value + tx.fee //余额要大于转账金额加上手续费
+  isValidTransaction(_player,_value) {
+    return this.utxos[_player].amount >= _value
   }
 
 }
 
 export default UTXOPool
-
